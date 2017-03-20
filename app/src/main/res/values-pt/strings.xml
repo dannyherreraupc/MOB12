@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Activity</string>
+    <string name="action_salvar">Salvar</string>
+    <string name="action_settings">Configuraçoes</string>
+    <string name="erro_login">Usuario e senha sao errados, tentar depois</string>
+    <string name="erro_profession">profission esta vazia</string>
+    <string name="erro_ui">Error cargando o aplicativo, tentar depois</string>
+    <string name="erro_usuario">Error ao Logar, tentar depois</string>
+    <string name="error_name">nome esta vazio</string>
+    <string name="lbBotomEntrar">Logar</string>
+    <string name="lbLogado">manter Logado</string>
+    <string name="lbLogin">usuario</string>
+    <string name="lbSenha">senha</string>
+    <string name="lbnome">agregar nome</string>
+    <string name="lbotonagregamiembro">Agregar Membro</string>
+    <string name="lbotonagregar">Agregar Membro</string>
+    <string name="lbotoneliminar">Eliminar</string>
+    <string name="lbotonmodificar">Modificar</string>
+    <string name="lbprofesion">Agregar profission</string>
+    <string name="login_vazio">Usuario esta vazio</string>
+    <string name="lstVazia">Lista vazia, porfavor agregar funcionario</string>
+    <string name="nav_nova_membro">novo funcionario</string>
+    <string name="nav_sair">Sair</string>
+    <string name="nav_sobre">Acerca</string>
+    <string name="navigation_drawer_close">Fechar Navagaçao</string>
+    <string name="navigation_drawer_open">Abrir Navegaçao</string>
+    <string name="senha_vazia">senha vazia</string>
+    <string name="title_activity_dashboard">Recursos Humanos</string>
+    <string name="titulo_login">Logar Usuario</string>
+</resources>

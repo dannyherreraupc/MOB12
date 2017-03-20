@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">My Activity</string>
+
+
+    // Tela Login
+    <string name="titulo_login">LOGIN</string>
+    <string name="lbLogin">Username</string>
+    <string name="lbSenha">Password</string>
+    <string name="lbLogado">Keep logged in</string>
+    <string name="lbBotomEntrar">SIGN-IN</string>
+    <string name="login_vazio">Username is empty</string>
+    <string name="senha_vazia">Password is empty</string>
+    <string name="erro_usuario">Error while sign in. Try again later</string>
+    <string name="erro_login">Username or password are incorrect. Try again later</string>
+
+    //splash
+
+    <string name="erro_ui">Error while load app. Try again later</string>
+
+    //Tela Sobre autor
+    <string name="autor_app" translatable="false">Danny Alfredo Herrera Goni</string>
+    <string name="title_activity_dashboard">Dashboard Human Resources</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    //Tela Menu
+    <string name="nav_nova_membro">New Employee</string>
+    <string name="nav_sobre">About the app</string>
+    <string name="nav_sair">Log out</string>
+    <string name="action_salvar">Save</string>
+
+
+    // Tela Membro
+
+    <string name="erro_profession">profession is empty</string>
+    <string name="lstVazia">ListView is empty, please add Employee: </string>
+    <string name="error_name">name is empty</string>
+    <string name="lbnome">add name</string>
+    <string name="lbprofesion">add profession</string>
+    <string name="lbotonagregar" >Add Member</string>
+
+    // tela modifica Membro
+
+    <string name="lbotonmodificar"> Modify</string>
+    <string name="lbotoneliminar">Exclude</string>
+    <string name="lbotonagregamiembro">Add Member</string>
+
+
+</resources>
